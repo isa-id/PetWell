@@ -5,3 +5,8 @@
 .grande {
     min-width: 100%;
 }
+
+.fondoperro {
+    background-image: url(imagenesSD/perro.jpg);
+    background-size: 100%;
+}
